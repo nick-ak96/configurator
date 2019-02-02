@@ -1,0 +1,6 @@
+# exclude build files
+./Index
+*.xcodeproj 
+
+# exclude xcode project settings
+./Build
